@@ -20,7 +20,7 @@ node server.js
 ```
 **BONUS:** Ngrok (https://ngrok.com/) is a great way to open CommCMD to the world, simply follow the steps given on their webpage, and use the random subdomain they give you to chat with your friends, family, and co-workers!
 
-The program will be running at localhost:8000!
+_The program will be running at localhost:8000 by default_
 
 ## License 
 ```
